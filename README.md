@@ -18,8 +18,8 @@ A Dockerized dedicated server for **Dark Messiah of Might & Magic Multiplayer**,
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/xelot12/dmomm-docker-server.git
-cd dmomm-docker-server
+git clone https://github.com/xelot12/dark-messiah-mp-docker.git
+cd dark-messiah-mp-docker
 ```
 
 ### 2. Build the Docker image
