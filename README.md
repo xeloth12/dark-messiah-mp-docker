@@ -1,4 +1,4 @@
-# Dark Messiah of Might & Magic Multiplayer — Dedicated Server (Docker)
+# Dark Messiah of Might & Magic Multiplayer — Dedicated Server (Docker) - Base Image Project
 
 A Dockerized dedicated server for **Dark Messiah of Might & Magic Multiplayer**, running via Wine on Ubuntu 24.04 with Large Address Aware (LAA) patch applied for improved memory handling.
 
