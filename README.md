@@ -2,6 +2,8 @@
 
 A Dockerized dedicated server for **Dark Messiah of Might & Magic Multiplayer**, running via Wine on Ubuntu 24.04 with Large Address Aware (LAA) patch applied for improved memory handling.
 
+[Docker Hub link](https://hub.docker.com/repository/docker/xloth/dark-messiah-mp-docker/general)
+
 ---
 
 ## Requirements
